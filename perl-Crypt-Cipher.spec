@@ -3,8 +3,8 @@
 %bcond_without	tests	# Do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Crypt
-%define	pnam	Cipher
+%define		pdir	Crypt
+%define		pnam	Cipher
 Summary:	Crypt::Cipher - very flexible base class for text ciphers
 Summary(pl):	Crypt::Cipher - bardzo elastyczna klasa bazowa dla szyfrów tekstowych
 Name:		perl-Crypt-Cipher
