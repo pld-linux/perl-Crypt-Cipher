@@ -16,7 +16,7 @@ Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	0d4467342f81a0adb1f53cabb9cd473b
 %{?with_tests:BuildRequires:	perl-Regexp-Tr >= 0.04}
-BuildRequires:	perl-devel >= 5.8.0
+BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 Requires:	perl-Regexp-Tr >= 0.04
 BuildArch:	noarch
