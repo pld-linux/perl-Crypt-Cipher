@@ -28,7 +28,7 @@ ciphers of various kinds, saving on development time and redundant
 code.
 
 %description -l pl
-Modu³ Crypt::Cipher dostarcza standardowy intefejs i proste metody dla
+Modu³ Crypt::Cipher dostarcza standardowy interfejs i proste metody dla
 szyfrów ró¿nego rodzaju, pozwalaj±c zaoszczêdziæ na czasie
 programowania i powielonym kodzie.
 
