@@ -6,7 +6,7 @@
 %define		pdir	Crypt
 %define		pnam	Cipher
 Summary:	Crypt::Cipher - very flexible base class for text ciphers
-Summary(pl):	Crypt::Cipher - bardzo elastyczna klasa bazowa dla szyfrów tekstowych
+Summary(pl.UTF-8):   Crypt::Cipher - bardzo elastyczna klasa bazowa dla szyfrÃ³w tekstowych
 Name:		perl-Crypt-Cipher
 Version:	0.03
 Release:	1
@@ -27,9 +27,9 @@ Crypt::Cipher provides a standard interface and simple methods for
 ciphers of various kinds, saving on development time and redundant
 code.
 
-%description -l pl
-Modu³ Crypt::Cipher dostarcza standardowy interfejs i proste metody dla
-szyfrów ró¿nego rodzaju, pozwalaj±c zaoszczêdziæ na czasie
+%description -l pl.UTF-8
+ModuÅ‚ Crypt::Cipher dostarcza standardowy interfejs i proste metody dla
+szyfrÃ³w rÃ³Å¼nego rodzaju, pozwalajÄ…c zaoszczÄ™dziÄ‡ na czasie
 programowania i powielonym kodzie.
 
 %prep
