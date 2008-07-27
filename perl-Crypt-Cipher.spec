@@ -9,7 +9,7 @@ Summary:	Crypt::Cipher - very flexible base class for text ciphers
 Summary(pl.UTF-8):	Crypt::Cipher - bardzo elastyczna klasa bazowa dla szyfrów tekstowych
 Name:		perl-Crypt-Cipher
 Version:	0.03
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
