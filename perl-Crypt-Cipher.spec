@@ -4,7 +4,6 @@
 
 %define		pdir	Crypt
 %define		pnam	Cipher
-%include	/usr/lib/rpm/macros.perl
 Summary:	Crypt::Cipher - very flexible base class for text ciphers
 Summary(pl.UTF-8):	Crypt::Cipher - bardzo elastyczna klasa bazowa dla szyfrów tekstowych
 Name:		perl-Crypt-Cipher
